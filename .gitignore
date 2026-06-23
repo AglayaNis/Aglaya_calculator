@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
